@@ -1,0 +1,15 @@
+MITRE ATT&CK Technique T1486 - Data Encrypted for Impact.
+
+WannaCry uses EternalBlue exploit targeting SMB vulnerability.
+
+Tools used:
+- WannaCry
+- TrickBot
+
+Vulnerabilities:
+- SMB
+- EternalBlue
+
+Techniques:
+- Lateral movement
+- Command and control communication

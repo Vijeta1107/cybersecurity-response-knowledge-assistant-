@@ -1,0 +1,12 @@
+Unusual outbound traffic may indicate:
+
+- Command and Control (C2) communication
+- Data exfiltration
+- Malware infection
+- Botnet activity
+
+Investigation steps:
+- Analyze network logs
+- Inspect endpoints
+- Check DNS queries
+- Identify suspicious domains

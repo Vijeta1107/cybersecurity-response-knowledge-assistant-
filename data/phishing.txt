@@ -1,0 +1,5 @@
+Phishing is a cyber attack that tricks users into revealing sensitive information.
+
+It often uses fake emails or websites.
+
+Phishing attacks can deliver malware or steal credentials.

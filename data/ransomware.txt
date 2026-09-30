@@ -1,0 +1,9 @@
+Ransomware is a type of malware that encrypts files and demands payment from victims.
+
+WannaCry is a well-known ransomware attack that exploited an SMB vulnerability to spread across networks.
+
+Ransomware can spread quickly across systems and lock important files, making them inaccessible.
+
+It often targets hospitals, organizations, and businesses where data is critical.
+
+Victims are usually asked to pay a ransom to regain access to their files.
